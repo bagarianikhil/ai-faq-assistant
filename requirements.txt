@@ -1,0 +1,12 @@
+pandas
+scikit-learn
+sentence-transformers>=2.3.0
+transformers>=4.38.0
+huggingface_hub>=0.26.0
+faiss-cpu
+openai
+python-dotenv
+joblib
+fastapi
+uvicorn
+streamlit
