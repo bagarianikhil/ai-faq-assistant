@@ -12,8 +12,8 @@ This project implements an AI-powered FAQ assistant using Python, FAISS for retr
 ## Repository Structure
 - `app.py` → API / Streamlit app
 - `faqs.csv` → FAQ dataset
-- `notebooks/FAQ.ipynb` → Development notebook
-- `docs/assignment.md` → Assignment description
+- `Code_FAQ.ipynb` → Development notebook
+- `ai-faq-assignment.txt` → Assignment description
 - `requirements.txt` → Dependencies
 
 ## Setup
